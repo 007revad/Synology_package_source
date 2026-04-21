@@ -1,34 +1,35 @@
-# <img src="images/icon.png" width="40"> Synology Open Speedtest
+# Synology Package Source
 
-<a href="https://github.com/007revad/Synology_Open_Speedtest/releases"><img src="https://img.shields.io/github/release/007revad/Synology_Open_Speedtest.svg"></a>
-[![Github Releases](https://img.shields.io/github/downloads/007revad/Synology_Open_Speedtest/total.svg)](https://github.com/007revad/Synology_Open_Speedtest/releases)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F007revad%2FSynology_Open_Speedtest&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=Australia%2FSydney)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F007revad%2FSynology_package_source&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=Australia%2FSydney)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/007revad)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/007revad)
 <!--- [![committers.top badge](https://user-badge.committers.top/australia/007revad.svg)](https://user-badge.committers.top/australia/007revad) --->
 
 ### Description
 
-Synology package to install OpenSpeedTest and run it in a GUI to test your LAN speed.
+Synology Package Source adds DSM 7.x packages that are available from GitHub to Package Center so users can install packages from various GitHub developers and Package Center can update the packages when newer versions are released.
 
-### Download the package
+### How to the Synology Package Source to Package Center
 
-1. Download the latest version .spk file from https://github.com/007revad/Synology_Open_Speedtest/releases and save it to your Synology.
-2. In Package Center click on Manual Install.
-3. Browse to where you downloaded the .spk file.
-4. Select the .spk file and click Install.
-
-### Screenshots
-
-<!--- <p align="center">Description of image 1 goes here</p> --->
-<p align="center"><img src="/images/installed.png"></p>
+1. Open Package Center and click on Settings.
+2. Click on Package Sources.
+3. Click Add.
+4. Enter `007revad` as the Name.
+5. Enter `https://spkrepo.007daver.workers.dev/` as the Location.
+6. Click OK then OK.
+7. You'll then see the available packages when you click Community on the left.
 
 <br>
 
-<!--- <p align="center">Description of image 2 goes here</p> --->
-<p align="center"><img src="/images/result.png"></p>
+<p align="center">Add package source</p>
+<p align="center"><img src="/images/pkg_source.png"></p>
 
 <br>
 
-<!--- <p align="center">Description of image 3 goes here</p> --->
-<p align="center"><img src="/images/result_dark.png"></p>
+<p align="center">Packages from the new package source</p>
+<p align="center"><img src="/images/packages.png"></p>
+
+<br>
+
+<p align="center">Packages with upgrades available</p>
+<p align="center"><img src="/images/updateable.png"></p>
