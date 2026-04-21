@@ -9,6 +9,13 @@
 
 Synology Package Source adds DSM 7.x packages that are available from GitHub to Package Center so users can install packages from various GitHub developers and Package Center can update the packages when newer versions are released.
 
+### Where are the spk files?
+
+- It does not host any of the spk files.
+- It just provides the information required by Package Center for Package Center to display available packages for the Synology's DSM version and CPU arch.
+- When you click Install or Upgrade in Package Center the spk file is downloaded from the package developer's GitHub repo.
+    - So all installs and upgrades count as downloads from the package developer's GitHub repo.
+
 ### How to the Synology Package Source to Package Center
 
 1. Open Package Center and click on Settings.
@@ -21,12 +28,12 @@ Synology Package Source adds DSM 7.x packages that are available from GitHub to 
 
 <br>
 
-<p align="center">Add package source</p>
-<p align="center"><img src="/images/pkg_source.png"></p>
+<p align="center">Add the package source</p>
+<p align="center"><img src="/images/pkg_source1.png"></p>
 
 <br>
 
-<p align="center">Packages from the new package source</p>
+<p align="center">Packages from the new package source in the Community section</p>
 <p align="center"><img src="/images/packages.png"></p>
 
 <br>
