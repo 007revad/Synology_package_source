@@ -16,7 +16,7 @@ Synology Package Source adds DSM packages that are available from GitHub to Pack
 - When you click Install or Upgrade in Package Center the spk file is downloaded from the package developer's GitHub repo.
     - So all installs and upgrades count as downloads from the package developer's GitHub repo.
 
-### How to the Synology Package Source to Package Center
+### How to add the Synology Package Source to Package Center
 
 1. Open Package Center and click on Settings.
 2. Click on Package Sources.
