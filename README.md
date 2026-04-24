@@ -29,12 +29,12 @@ Synology Package Source adds DSM 7.x packages that are available from GitHub to 
 <br>
 
 <p align="center">Add the package source</p>
-<p align="center"><img src="/images/pkg_source1.png"></p>
+<p align="center"><img src="/images/pkg_source2.png"></p>
 
 <br>
 
 <p align="center">Packages from the new package source in the Community section</p>
-<p align="center"><img src="/images/packages.png"></p>
+<p align="center"><img src="/images/packages1.png"></p>
 
 <br>
 
