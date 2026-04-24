@@ -7,7 +7,7 @@
 
 ### Description
 
-Synology Package Source adds DSM packages that are available from GitHub to Package Center so users can install packages from various GitHub developers and Package Center can update the packages when newer versions are released.
+Synology Package Source adds DSM packages that are available from GitHub to Package Center so users can easily install packages from various GitHub developers and Package Center can update the packages when newer versions are released.
 
 ### Where are the spk files?
 
