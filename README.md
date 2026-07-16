@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">Packages from the new package source in the Community section</p>
-<p align="center"><img src="/images/packages1.png"></p>
+<p align="center"><img src="/images/packages2.png"></p>
 
 <br>
 
