@@ -38,5 +38,5 @@
 
 <br>
 
-<p align="center">Packages with upgrades available</p>
+<p align="center">Packages with updates available</p>
 <p align="center"><img src="/images/updateable.png"></p>
